@@ -1,7 +1,9 @@
-# javascript take picture from camera
+# Javascript take picture from camera
 
 Enable javascript camera to canvas.
+
 GET javascript webcam stream
+
 html5 video capture and save
 
 ```
